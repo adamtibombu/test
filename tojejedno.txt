@@ -2,4 +2,5 @@ nieco
 nieco ine
 toto vyhodi chybu
 
+toto sa nespojji do masteru
 toto sa teraz zapise do vetvi gitu
