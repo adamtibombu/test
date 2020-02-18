@@ -1,3 +1,5 @@
 nieco
 nieco ine
 toto vyhodi chybu
+
+toto sa teraz zapise do vetvi gitu
